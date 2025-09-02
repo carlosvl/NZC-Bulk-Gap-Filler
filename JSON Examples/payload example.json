@@ -1,0 +1,13 @@
+{
+  "recordId" : "0pfWt0000000cQSIAY",
+  "methods" : [
+    "DAILY_AVERAGE_CURRENT_YEAR",
+    "REGIONAL_BENCHMARK",
+    "BUILDING_BENCHMARK",
+    "MANUAL" ],
+  "filters" : [
+    {
+      "value" : "Electricity",
+      "item" : "FuelType"
+    } ]
+}

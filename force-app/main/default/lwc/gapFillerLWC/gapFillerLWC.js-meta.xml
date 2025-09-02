@@ -8,12 +8,11 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightning__FlowScreen">
-<property
-                name="results"
-                label="Gap Fill Results"
-                type="@salesforce/schema/YourApexWrapperClass[]"
-                role="inputOnly"
-                description="Pass the Apex-defined variable from your API call."/>
+            <property
+                name="inputData"
+                label="Gap Fill Results (JSON String)"
+                type="String"
+                description="Pass the Apex-defined variable from your API call here. Flow will convert it to JSON."/>
         </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>
