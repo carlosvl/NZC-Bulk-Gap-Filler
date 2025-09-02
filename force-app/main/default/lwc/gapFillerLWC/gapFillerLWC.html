@@ -1,0 +1,26 @@
+<template>
+    <table>
+        <thead>
+            <tr>
+                <th>Start Date</th>
+                <th>Name</th>
+                <th>Fuel Type</th>
+                <th>Fuel Consumption Unit</th>
+                <th>Fuel Consumption</th>
+                <th>End Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            <template for:each={parsedData} for:item="item">
+                <tr key={item.fillValues.REGIONALx5fBENCHMARK.StartDate}>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.StartDate}</td>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.Name}</td>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.FuelType}</td>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.FuelConsumptionUnit}</td>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.FuelConsumption}</td>
+                    <td>{item.fillValues.REGIONALx5fBENCHMARK.EndDate}</td>
+                </tr>
+            </template>
+        </tbody>
+    </table>
+</template>

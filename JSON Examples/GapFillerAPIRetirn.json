@@ -1,0 +1,99 @@
+[{
+"fillValues_set" : true,
+"fillValues" : {
+"REGIONALx5fBENCHMARK_set" : true,
+"REGIONALx5fBENCHMARK" : {
+"StartDate_set" : true,
+"StartDate" : "2025-03-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Mar 1, 2025 - May 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 9010.958904109584,
+"EndDate_set" : true,
+"EndDate" : "2025-05-31"
+},
+"MANUAL_set" : true,
+"MANUAL" : {
+"StartDate_set" : true,
+"StartDate" : "2025-03-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Mar 1, 2025 - May 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 0.0,
+"EndDate_set" : true,
+"EndDate" : "2025-05-31"
+},
+"BUILDINGx5fBENCHMARK_set" : true,
+"BUILDINGx5fBENCHMARK" : {
+"StartDate_set" : true,
+"StartDate" : "2025-03-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Mar 1, 2025 - May 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 0.0,
+"EndDate_set" : true,
+"EndDate" : "2025-05-31"
+}
+}
+},{
+"fillValues_set" : true,
+"fillValues" : {
+"REGIONALx5fBENCHMARK_set" : true,
+"REGIONALx5fBENCHMARK" : {
+"StartDate_set" : true,
+"StartDate" : "2025-07-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Jul 1, 2025 - Dec 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 18021.91780821917,
+"EndDate_set" : true,
+"EndDate" : "2025-12-31"
+},
+"MANUAL_set" : true,
+"MANUAL" : {
+"StartDate_set" : true,
+"StartDate" : "2025-07-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Jul 1, 2025 - Dec 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 0.0,
+"EndDate_set" : true,
+"EndDate" : "2025-12-31"
+},
+"BUILDINGx5fBENCHMARK_set" : true,
+"BUILDINGx5fBENCHMARK" : {
+"StartDate_set" : true,
+"StartDate" : "2025-07-01",
+"Name_set" : true,
+"Name" : "Clos Global HQ - Jul 1, 2025 - Dec 31, 2025 - Electricity",
+"FuelType_set" : true,
+"FuelType" : "Electricity",
+"FuelConsumptionUnit_set" : true,
+"FuelConsumptionUnit" : "kWh",
+"FuelConsumption_set" : true,
+"FuelConsumption" : 0.0,
+"EndDate_set" : true,
+"EndDate" : "2025-12-31"
+}
+}
+}]
